@@ -45,6 +45,3 @@ Once we are satisfied with the application's quality, Maven helps us create a de
 As the project evolves, new versions of libraries and dependencies are released. Maven simplifies the task of updating dependencies by providing commands to check for updates and resolve any compatibility issues automatically.
 
 Overall, Maven streamlines the build and deployment process, ensuring consistency and reproducibility across different environments. It saves developers' time by automating repetitive tasks and simplifying dependency management.
-![image]()
-
-
