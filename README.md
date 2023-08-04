@@ -1,6 +1,6 @@
 # MyWebApp - Java Web Application(Scenario)
 
-MyWebApp is a Java web application developed by Company XYZ using the Spring framework. This repository contains the source code and configuration files for the application, and Maven is used as the build and dependency management tool.
+Company XYZ is building "MyWebApp," a Java web application using the Spring framework. This application is composed of multiple modules and depends on external libraries. To streamline the build process and handle dependencies efficiently, the development team opts to use Maven. With Maven, they can easily define the project structure and configuration files, manage dependencies, and automate tasks such as compiling source code, running tests, and packaging the application. Continuous integration with tools like Jenkins ensures a smooth development workflow. Maven's integration with testing frameworks like JUnit ensures thorough testing and quality assurance. Ultimately, Maven simplifies deployment and promotes consistency across different environments.
 
 ## Project Setup
 
